@@ -1,0 +1,14 @@
+[
+  {
+    "origin1" : "GOI",
+    "dest1"   : "MAA",
+    "origin2" : "DEL",
+    "dest2"   : "AMD"
+  },
+  {
+    "origin1" : "AMD",
+    "dest1"   : "MAA",
+    "origin2" : "DEL",
+    "dest2"   : "AMD"
+  }
+]
